@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">TrackMyEarnings</string>
+    <string name="app_name">Track My Earnings</string>
+    <string name="app_mainsubtitle">Track your earnings efficiently!</string>
+    <string name="loading">Loading…</string>
 </resources>

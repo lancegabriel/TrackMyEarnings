@@ -1,10 +1,11 @@
 apply plugin: 'com.android.application'
+apply plugin: 'com.google.gms.google-services'
 
 android {
     compileSdkVersion 27
     defaultConfig {
         applicationId "lancegabriel.trackmyearnings"
-        minSdkVersion 15
+        minSdkVersion 16
         targetSdkVersion 27
         versionCode 1
         versionName "1.0"
@@ -19,6 +20,9 @@ android {
 }
 
 dependencies {
+    implementation 'com.firebaseui:firebase-ui-auth:4.0.0' //Firebase
+    implementation 'com.google.android.gms:play-services-auth:16.0.0' //GPlay
+
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation 'com.android.support:appcompat-v7:27.1.1'
     implementation 'com.android.support.constraint:constraint-layout:1.1.2'

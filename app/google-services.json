@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "104764443782",
+    "firebase_url": "https://trackyourearnings.firebaseio.com",
+    "project_id": "trackyourearnings",
+    "storage_bucket": "trackyourearnings.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104764443782:android:2fe928b2697ba92c",
+        "android_client_info": {
+          "package_name": "lancegabriel.trackmyearnings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104764443782-tvdktqfcf8t2al84mqf0r159fgegdvio.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lancegabriel.trackmyearnings",
+            "certificate_hash": "c1b301cca530a566205d49663d8323e61d6757ec"
+          }
+        },
+        {
+          "client_id": "104764443782-sc6rhbno620v186e3gr9r69l0qsf5hfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnopANTrV_T4_urSHi3cYCQLA2_SZFJdk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104764443782-sc6rhbno620v186e3gr9r69l0qsf5hfs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
